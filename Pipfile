@@ -8,11 +8,11 @@ verify_ssl = true
 [packages]
 flask = "*"
 psycopg2-binary = "*"
-flask-cors = "*"
 pytest = "*"
 mock = "*"
 pytest-testdox = "*"
 pytest-ordering = "*"
+flask-cors = "*"
 
 [requires]
 python_version = "3.13"
